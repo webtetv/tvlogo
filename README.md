@@ -1,3 +1,3 @@
-# TV Logos
+# TV Logo
 
 🇹🇷 Turkey
