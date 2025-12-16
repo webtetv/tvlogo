@@ -1,3 +1,4 @@
 # TV Logo
 
-🇹🇷 Turkey > https://webtetv.github.io/tvlogo/turkey/ logo name (24.webp)
+🇹🇷 Turkey > https://webtetv.github.io/tvlogo/turkey/ logo name
+🇦🇿 Azerbaijan > https://webtetv.github.io/tvlogo/azerbaijan/ logo name
